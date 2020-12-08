@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 17px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: orange;
+}
+h3 {
+  font-weight: bold;
+}
+.forecast {
+  font-size: 0.9em;
+}
+span {
+  font-size: 1em;
+}
+li:hover {
+  background-color: rgb(59, 59, 254);
+  text-decoration: underline;
+}
